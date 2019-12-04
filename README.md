@@ -1,1 +1,1 @@
-# 500_albums
+# 500 Greatest Albums of All Time
