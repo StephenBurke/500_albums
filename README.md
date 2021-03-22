@@ -4,7 +4,7 @@ End of year project for my 44-155 Intro to Data Mining class. I web mined two se
 
 ### Required Libraries
 
-* numpu
+* numpy
 * pandas
 * nltk
 * matplotlib.pyplot
